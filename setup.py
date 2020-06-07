@@ -12,7 +12,7 @@ if sys.platform == "win32":
 
 setup(
     name="RAstral Rampart",
-    version="2.2.0",
+    version="2.3.0",
     description="An arcade-style space game written with Pygame",
     author="Caleb Werth & Russell Spry",
     options={
